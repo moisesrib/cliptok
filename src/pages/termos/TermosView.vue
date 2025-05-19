@@ -18,6 +18,7 @@ import { Separator } from '@/components/ui/separator'
           <li>Publicações no TikTok são feitas via API ou processo autorizado.</li>
           <li>O desenvolvedor não se responsabiliza por clipes que violem direitos autorais.</li>
           <li>Este serviço pode ser modificado ou descontinuado a qualquer momento.</li>
+          
         </ul>
         <p class="text-sm text-gray-500 mt-6">
           Última atualização: 18 de maio de 2025

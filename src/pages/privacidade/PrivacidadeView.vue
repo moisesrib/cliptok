@@ -15,9 +15,10 @@ import { Separator } from '@/components/ui/separator'
         <ul class="list-disc list-inside space-y-2 text-muted-foreground">
           <li>Coletamos apenas os dados necessários para acessar seus clipes via API da Twitch.</li>
           <li>Dados de autenticação (tokens) não são armazenados permanentemente.</li>
-          <li>Seus clipes são processados localmente e enviados ao TikTok conforme sua configuração.</li>
+          <li>Seus clipes são processados e enviados ao TikTok conforme sua configuração.</li>
           <li>O ClipTok não compartilha seus dados com terceiros.</li>
-          <li>Você pode excluir suas informações a qualquer momento solicitando diretamente ao desenvolvedor.</li>
+          <li>O desenvolvedor não se responsabiliza por clipes que violem direitos autorais.</li>
+          <li>Este serviço é de uso pessoal e não tem interface pública.</li>
         </ul>
         <p class="text-sm text-gray-500 mt-6">
           Última atualização: 18 de maio de 2025
