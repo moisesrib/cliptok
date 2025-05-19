@@ -9,6 +9,7 @@ const routes: RouteRecordRaw[] = [
     path: '/',
     component: MainLayout,
     children: [
+      { path: '', redirect: '/termos' },
       { path: 'termos', component: TermosView },
       { path: 'privacidade', component: PrivacidadeView },
     ],
